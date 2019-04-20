@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'is_dead', require: false, git: 'https://github.com/hanachin/is_dead.git'
+gem 'is_dead', require: false
 ```
 
 And then execute:
