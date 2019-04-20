@@ -26,10 +26,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.1.a)
+  bundler (~> 2.0.1)
   is_dead!
   rake (~> 12.0)
   rspec (~> 3.0)
 
 BUNDLED WITH
-   2.1.0.pre.1
+   2.0.1
