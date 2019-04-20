@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Seiei Miyagi"]
   spec.email         = ["hanachin@gmail.com"]
 
-  spec.summary       = %q{require is dead}
+  spec.summary       = %q{Once you `require 'is_dead'`, the `require` method is dead.}
   spec.homepage      = "https://github.com/hanachin/is_dead"
   spec.license       = "MIT"
 
